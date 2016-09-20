@@ -1,0 +1,33 @@
+.top-bar {
+	background:#FBB117;
+	color: #63AB62;
+	}
+.has-submenu {
+	background: #FBB117;
+	color: white;
+	}
+.submenu {
+	background: black;
+	color: black;
+	}
+
+li {
+	color: red;
+}
+
+a {
+color: #653E1D;
+}
+
+body {
+	background-color: #F5DEB3;
+	background-repeat: no-repeat;
+}
+
+label {
+color:#63AB62;
+}
+
+data-dropdown-menu {
+color: black;
+	}

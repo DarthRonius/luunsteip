@@ -1,0 +1,24 @@
+.top-bar {
+	background:orange;
+	color: #497EFC;
+	}
+.has-submenu {
+	background: orange;
+	color: white;
+	}
+.submenu {
+	background: black;
+	color: white;
+	}
+.data-dropdown-menu {
+	background: black;
+	color: white;
+	}
+
+li {
+	color: red;
+}
+
+a {
+color: #497EFC;
+}
